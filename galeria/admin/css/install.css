@@ -1,0 +1,20 @@
+/* CSS FOR INSTALLATION */
+.install_td {
+	vertical-align: middle;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.install_success {
+	color: #007D01;
+	font-family: tahoma, verdana, arial, helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.install_failure {
+	color: #A60000;
+	font-family: tahoma, verdana, arial, helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+}

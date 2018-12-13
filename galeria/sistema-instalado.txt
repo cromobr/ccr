@@ -1,0 +1,28 @@
+  Prezado cliente, o Sistema Total-Admin. esta instalado em seu website para as seguintes paginas:
+
+-A Academia
+-Galeria de Fotos
+-Novidades
+-Eventos
+-Quadro de Horarios
+-Dicas de Saude
+
+ 
+  Suas respectivas pastas ja estao criadas no area administrativa do seu sistema.
+  IMPORTANTE: NAO REMOVA AS PASTAS REFERENTES AS PAGINAS
+------------------------------------------------------------
+  Para acessar a Area Administrativa acesse:
+http://academiaplay.com.br/galeria/admin.php
+Senha: acad-play71
+------------------------------------------------------------
+ 
+  INSTRUÇÕES BASICAS:
+Inserir texto na pagina - basta clicar no botao 'Editar' do lado direito nas respectiva pasta. Entao insira o texto usando o Editor de Texto.
+ 
+Inserir galeria de fotos/videos - clique em cima do nome da respectiva pasta. Entao use a ferramenta 'ADICIONAR NOVAS FOTOS' e adicione os arquivos das fotos ou videos para aquela pasta.
+
+OBS: Voce pode criar automaticamente as subpastas. Com relacao as paginas, para qualquer mudança voce deve nos enviar as alteracoes.
+ 
+
+
+   Qualquer dúvida, estamos a disposição...

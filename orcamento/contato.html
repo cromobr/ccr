@@ -1,0 +1,81 @@
+<html>
+
+<head>
+
+<script type="text/javascript" src="jq/jquery.1.3.2.js"></script>
+<script type="text/javascript" src="jq/jquery.mascara.js"></script>
+<script type="text/javascript" src="jq/jquery.validate.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function()
+	{
+		$("#tel").mask("(99) 9999 9999");
+		
+		// Validacao de formulario Comentario ------------------------------------
+		$("#formContato").validate({ 
+		  rules:    { email: { required: true, email: true } },
+		  messages: { email: { required: "<br><i style=color:#C00;>Campo obrigatorio.</i>", email: "<br><i style=color:#C00;>Digite um e-Mail Valido!</i>" } } });
+	});
+</script>
+
+</head>
+
+<body topmargin="10" leftmargin="0" rightmargin="0" bottommargin="0" style="background-color: transparent;">
+
+<form id="formContato" name="senddata" method="post" action="form.php">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center">
+    <tr>
+      <td width="330">
+      
+      <table border="0" cellpadding="5" cellspacing="2" style="border-collapse: collapse" bordercolor="#111111" width="100%">
+        <tr>
+          <td><b><font face="Verdana" size="1">Nome:</font></b></td>
+          <td>
+			<input name="nome" type="text" class="fomu" size="35" style="padding:2px;"></td>
+        </tr>
+        <tr>
+          <td><b><font face="Verdana" size="1">Cidade:</font></b></td>
+          <td>
+			<input name="cidade" type="text" class="fomu" size="35" style="padding:2px;"></td>
+        </tr>
+        <tr>
+          <td><b><font face="Verdana" size="1">Fone:</font></b></td>
+          <td>
+			<input id="tel" name="tel" type="text" class="fomu" size="35" style="padding:2px;"></td>
+        </tr>
+        <tr>
+          <td><b><font face="Verdana" size="1">E-mail:</font></b></td>
+          <td>
+			<input id="email" name="email" type="text" class="fomu" size="35" style="padding:2px;"></td>
+        </tr>
+        <tr>
+          <td><b><font face="Verdana" size="1">Assunto:</font></b></td>
+          <td>
+          <select class="form_campos" name="assunto" size="1" style="padding:2px;">
+          	<option selected value="ORÇAMENTO">ORÇAMENTO</option>
+          	<option value="Dúvidas/Perguntas">Dúvidas/Perguntas</option>
+          	<option value="Sem assunto">Outros</option>
+          </select>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" nowrap><b>
+			<font class="texto" size="1" face="Verdana">Descrição do<br>Produto/Serviço:</font></b></td>
+          <td>
+			<textarea name="textodamensagem" cols="29" rows="12" class="fomu" style="padding:2px; margin-right:5px;"></textarea></td>
+        </tr>
+        <tr>
+          <td valign="top" nowrap>&nbsp;</td>
+          <td>
+          <input name="enviar" type="submit" class="formcop" value="Enviar" style="border:1px solid #000000; background-color: #000000; color: #FFFFFF; font-size: 8 pt; font-weight: bold; font-family:Verdana; width:95; height:30">&nbsp;
+          <input class="form_botao" type="reset" name="Limpar" value="Limpar" style="border:1px solid #000000; background-color: #000000; color: #FFFFFF; font-size: 8 pt; font-weight: bold; font-family:Verdana; width:95px; height:30px">
+          </td>
+        </tr>
+     </table>  
+     
+	</td>
+    	
+    </tr>
+  </table>
+</form>
+</html>

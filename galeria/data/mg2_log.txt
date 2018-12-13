@@ -1,0 +1,1339 @@
+MG2/kh_mod LFS (Log File System)
+
+Version: 0.5.1/
+Install date: 2010-10-14
+
+------------------ LOG BEGIN ------------------
+
+20101014, 16:54:13 - Login from IP: 201.74.215.130, HOST: 201-74-215-130-am.cpe.vivax.com.br
+20101014, 16:54:40 - Writing temp folder database file
+20101014, 16:54:40 - Updated folder database from temporary file
+20101014, 16:54:40 - Created folder 'Maquinas Gensy' in 'Principal'
+20101014, 16:55:55 - Writing temp folder database file
+20101014, 16:55:55 - Updated folder database from temporary file
+20101014, 16:55:55 - Created folder 'Maquinas Siruba' in 'Principal'
+20101014, 16:56:14 - Writing temp folder database file
+20101014, 16:56:14 - Updated folder database from temporary file
+20101014, 16:56:14 - Created folder 'Maquinas Lan Max' in 'Principal'
+20101014, 16:56:34 - Writing temp folder database file
+20101014, 16:56:34 - Updated folder database from temporary file
+20101014, 16:56:34 - Created folder 'Maquinas Sun Star' in 'Principal'
+20101014, 16:56:54 - Writing temp folder database file
+20101014, 16:56:54 - Updated folder database from temporary file
+20101014, 16:56:54 - Created folder 'Maquinas Sun Special' in 'Principal'
+20101014, 16:57:08 - Writing temp folder database file
+20101014, 16:57:08 - Updated folder database from temporary file
+20101014, 16:57:08 - Created folder 'Maquinas King Tex' in 'Principal'
+20101014, 16:57:20 - Writing temp folder database file
+20101014, 16:57:20 - Updated folder database from temporary file
+20101014, 16:57:20 - Created folder 'Acessorios' in 'Principal'
+20101014, 16:57:29 - Writing temp folder database file
+20101014, 16:57:29 - Updated folder database from temporary file
+20101014, 16:57:29 - Created folder 'Promocoes' in 'Principal'
+20101014, 16:57:39 - Writing temp folder database file
+20101014, 16:57:39 - Updated folder database from temporary file
+20101014, 16:57:39 - Created folder 'Home' in 'Principal'
+20101014, 16:58:13 - Upload and import started
+20101014, 16:58:13 - No files to import!
+20101014, 16:58:25 - Upload and import started
+20101014, 16:58:25 - Importing 'Reta Eletronica Siruba.jpg' (6488 Bytes)
+20101014, 16:58:25 -  * finished creating thumbnail
+20101014, 16:58:25 -  * finished importing 'Reta Eletronica Siruba.jpg'
+20101014, 16:58:25 -  * finished adding file to database
+20101014, 16:58:25 - Writing temp image database file
+20101014, 16:58:25 - Updated image database from temporary file
+20101014, 16:58:25 - Summary: Uploaded and imported 1 file(s). Gallery now contains 1 images
+20101019, 14:22:42 - Login from IP: 201.74.214.159, HOST: 201-74-214-159-am.cpe.vivax.com.br
+20101019, 14:42:58 - Login from IP: 189.111.138.200, HOST: 189-111-138-200.dsl.telesp.net.br
+20101019, 14:44:34 - Upload and import started
+20101019, 14:44:34 - 1 already exists file(s) have not been uploaded!
+20101019, 14:45:11 - Upload and import started
+20101019, 14:45:11 - Importing 'teste.jpg' (6488 Bytes)
+20101019, 14:45:11 -  * finished creating thumbnail
+20101019, 14:45:11 -  * finished importing 'teste.jpg'
+20101019, 14:45:11 -  * finished adding file to database
+20101019, 14:45:11 - Writing temp image database file
+20101019, 14:45:11 - Updated image database from temporary file
+20101019, 14:45:11 - Summary: Uploaded and imported 1 file(s). Gallery now contains 2 images
+20101019, 14:58:25 - Timeout logoff after 15 minutes
+20101019, 14:58:52 - Login from IP: 201.74.214.159, HOST: 201-74-214-159-am.cpe.vivax.com.br
+20101019, 15:05:31 - Deleting file 'teste.jpg'
+20101019, 15:05:31 - Item database entry deleted, ID #2
+20101019, 15:05:31 - Writing temp image database file
+20101019, 15:05:31 - Updated image database from temporary file
+20101019, 15:05:40 - Writing temp folder database file
+20101019, 15:05:40 - Updated folder database from temporary file
+20101019, 15:05:40 - Folder 'Home' deleted from 'Principal'
+20101019, 15:05:50 - Deleting file 'Reta Eletronica Siruba.jpg'
+20101019, 15:05:50 - Item database entry deleted, ID #1
+20101019, 15:05:50 - Writing temp image database file
+20101019, 15:05:50 - Updated image database from temporary file
+20101019, 15:25:35 - Timeout logoff after 15 minutes
+20101019, 15:25:40 - Login from IP: 189.111.138.200, HOST: 189-111-138-200.dsl.telesp.net.br
+20101019, 15:26:06 - Writing temp folder database file
+20101019, 15:26:06 - Updated folder database from temporary file
+20101019, 15:26:06 - Folder 'Maquinas Gensy' deleted from 'Principal'
+20101019, 15:26:10 - Writing temp folder database file
+20101019, 15:26:10 - Updated folder database from temporary file
+20101019, 15:26:10 - Folder 'Acessorios' deleted from 'Principal'
+20101019, 15:26:13 - Writing temp folder database file
+20101019, 15:26:13 - Updated folder database from temporary file
+20101019, 15:26:13 - Folder 'Maquinas King Tex' deleted from 'Principal'
+20101019, 15:26:17 - Writing temp folder database file
+20101019, 15:26:17 - Updated folder database from temporary file
+20101019, 15:26:17 - Folder 'Maquinas Lan Max' deleted from 'Principal'
+20101019, 15:26:21 - Writing temp folder database file
+20101019, 15:26:21 - Updated folder database from temporary file
+20101019, 15:26:21 - Folder 'Maquinas Siruba' deleted from 'Principal'
+20101019, 15:26:24 - Writing temp folder database file
+20101019, 15:26:24 - Updated folder database from temporary file
+20101019, 15:26:24 - Folder 'Maquinas Sun Special' deleted from 'Principal'
+20101019, 15:26:27 - Writing temp folder database file
+20101019, 15:26:27 - Updated folder database from temporary file
+20101019, 15:26:27 - Folder 'Maquinas Sun Star' deleted from 'Principal'
+20101019, 15:26:30 - Writing temp folder database file
+20101019, 15:26:30 - Updated folder database from temporary file
+20101019, 15:26:30 - Folder 'Promocoes' deleted from 'Principal'
+20130110, 14:27:59 - Login from IP: 201.74.218.176, HOST: c94adab0.virtua.com.br
+20130110, 14:29:49 - New settings saved in 'mg2db_settings.php'
+20130110, 14:30:25 - Login from IP: 201.74.218.176, HOST: c94adab0.virtua.com.br
+20130110, 14:34:03 - Login from IP: 201.74.218.176, HOST: c94adab0.virtua.com.br
+20130110, 14:35:16 - Writing temp folder database file
+20130110, 14:35:16 - Updated folder database from temporary file
+20130110, 14:35:16 - Created folder 'Aeronáutico' in 'Principal'
+20130110, 14:35:22 - Writing temp folder database file
+20130110, 14:35:22 - Updated folder database from temporary file
+20130110, 14:35:22 - Created folder 'Automotivo' in 'Principal'
+20130110, 14:35:31 - Writing temp folder database file
+20130110, 14:35:31 - Updated folder database from temporary file
+20130110, 14:35:31 - Created folder 'Usinagens em Geral' in 'Principal'
+20130110, 14:35:40 - Writing temp folder database file
+20130110, 14:35:40 - Updated folder database from temporary file
+20130110, 14:35:40 - Created folder 'Moldes e Matrizes' in 'Principal'
+20130110, 14:35:49 - Writing temp folder database file
+20130110, 14:35:49 - Updated folder database from temporary file
+20130110, 14:35:49 - Created folder 'Educacional' in 'Principal'
+20130110, 14:40:25 - Writing temp folder database file
+20130110, 14:40:25 - Updated folder database from temporary file
+20130110, 14:40:25 - Created folder 'Educacional_autorenamed5212' in 'Principal'
+20130110, 14:40:42 - Writing temp folder database file
+20130110, 14:40:42 - Updated folder database from temporary file
+20130110, 14:40:42 - Created folder 'Indústrias de Maquinas' in 'Principal'
+20130110, 14:41:13 - Writing temp folder database file
+20130110, 14:41:13 - Updated folder database from temporary file
+20130110, 14:41:13 - Update of folder 'Educacional_autorenamed5212' complete.
+20130110, 14:41:29 - Writing temp folder database file
+20130110, 14:41:29 - Updated folder database from temporary file
+20130110, 14:41:29 - Update of folder 'Educacional_autorenamed2774' complete.
+20130110, 14:41:42 - Writing temp folder database file
+20130110, 14:41:42 - Updated folder database from temporary file
+20130110, 14:41:42 - Update of folder 'Educacional_autorenamed5640' complete.
+20130110, 14:42:11 - Writing temp folder database file
+20130110, 14:42:11 - Updated folder database from temporary file
+20130110, 14:42:11 - Folder 'Educacional_autorenamed7486' deleted from 'Principal'
+20130110, 14:42:39 - Writing temp folder database file
+20130110, 14:42:39 - Updated folder database from temporary file
+20130110, 14:42:39 - Created folder 'Médico / Odontológico' in 'Principal'
+20130110, 14:42:49 - Writing temp folder database file
+20130110, 14:42:49 - Updated folder database from temporary file
+20130110, 14:42:49 - Created folder 'Eólico' in 'Principal'
+20130110, 14:42:55 - Writing temp folder database file
+20130110, 14:42:55 - Updated folder database from temporary file
+20130110, 14:42:55 - Created folder 'Ferroviário' in 'Principal'
+20130110, 14:43:01 - Writing temp folder database file
+20130110, 14:43:01 - Updated folder database from temporary file
+20130110, 14:43:01 - Created folder 'Hidroelétrico' in 'Principal'
+20130110, 14:43:07 - Writing temp folder database file
+20130110, 14:43:07 - Updated folder database from temporary file
+20130110, 14:43:07 - Created folder 'Microfusão' in 'Principal'
+20130110, 14:43:14 - Writing temp folder database file
+20130110, 14:43:14 - Updated folder database from temporary file
+20130110, 14:43:14 - Created folder 'Fundição' in 'Principal'
+20130110, 14:43:26 - Writing temp folder database file
+20130110, 14:43:26 - Updated folder database from temporary file
+20130110, 14:43:26 - Created folder 'Outros Setores' in 'Principal'
+20130110, 15:01:24 - Timeout logoff after 15 minutes
+20130110, 15:01:43 - Login from IP: 201.74.218.176, HOST: c94adab0.virtua.com.br
+20130110, 15:02:03 - Upload and import started
+20130110, 15:02:03 - Importing 'wall.jpg' (136022 Bytes)
+20130110, 15:02:03 -  * finished creating thumbnail
+20130110, 15:02:03 -  * finished importing 'wall.jpg'
+20130110, 15:02:03 -  * finished adding file to database
+20130110, 15:02:03 - Writing temp image database file
+20130110, 15:02:03 - Updated image database from temporary file
+20130110, 15:02:03 - Summary: Uploaded and imported 1 file(s). Gallery now contains 1 images
+20130110, 15:02:59 - Upload and import started
+20130110, 15:02:59 - Importing '41412-windows-8-m3-wallpaper.jpg' (137056 Bytes)
+20130110, 15:02:59 -  * finished creating thumbnail
+20130110, 15:02:59 -  * finished importing '41412-windows-8-m3-wallpaper.jpg'
+20130110, 15:02:59 -  * finished adding file to database
+20130110, 15:02:59 - Importing 'Penguins.jpg' (30177 Bytes)
+20130110, 15:02:59 -  * finished creating thumbnail
+20130110, 15:02:59 -  * finished importing 'Penguins.jpg'
+20130110, 15:02:59 -  * finished adding file to database
+20130110, 15:02:59 - Importing 'wallpaper_windows7-1920x1200.jpg' (115860 Bytes)
+20130110, 15:02:59 -  * finished creating thumbnail
+20130110, 15:02:59 -  * finished importing 'wallpaper_windows7-1920x1200.jpg'
+20130110, 15:02:59 -  * finished adding file to database
+20130110, 15:02:59 - Importing '14311pinguins.jpg' (265208 Bytes)
+20130110, 15:02:59 -  * finished creating thumbnail
+20130110, 15:02:59 -  * finished importing '14311pinguins.jpg'
+20130110, 15:02:59 -  * finished adding file to database
+20130110, 15:02:59 - Writing temp image database file
+20130110, 15:02:59 - Updated image database from temporary file
+20130110, 15:02:59 - Summary: Uploaded and imported 4 file(s). Gallery now contains 5 images
+20130110, 15:02:59 - 3 already exists file(s) have not been uploaded!
+20130110, 15:34:12 - Timeout logoff after 15 minutes
+20130110, 15:34:25 - Login from IP: 201.74.218.176, HOST: c94adab0.virtua.com.br
+20130110, 15:34:38 - Delete file(s) started
+20130110, 15:34:38 - Deleting file '14311pinguins.jpg'
+20130110, 15:34:38 - Item database entry deleted, ID #7
+20130110, 15:34:38 - Deleting file '41412-windows-8-m3-wallpaper.jpg'
+20130110, 15:34:38 - Item database entry deleted, ID #4
+20130110, 15:34:38 - Deleting file 'Penguins.jpg'
+20130110, 15:34:38 - Item database entry deleted, ID #5
+20130110, 15:34:38 - Deleting file 'wall.jpg'
+20130110, 15:34:38 - Item database entry deleted, ID #3
+20130110, 15:34:38 - Deleting file 'wallpaper_windows7-1920x1200.jpg'
+20130110, 15:34:38 - Item database entry deleted, ID #6
+20130110, 15:34:38 - Writing temp image database file
+20130110, 15:34:38 - Updated image database from temporary file
+20130110, 15:34:38 - Summery: Deleted 5 database entry(s) of 5 selected
+20130110, 15:34:57 - Upload and import started
+20130110, 15:34:57 - Importing 'wall.jpg' (136022 Bytes)
+20130110, 15:34:57 -  * finished creating thumbnail
+20130110, 15:34:57 -  * finished importing 'wall.jpg'
+20130110, 15:34:57 -  * finished adding file to database
+20130110, 15:34:57 - Writing temp image database file
+20130110, 15:34:57 - Updated image database from temporary file
+20130110, 15:34:57 - Summary: Uploaded and imported 1 file(s). Gallery now contains 1 images
+20130110, 15:39:01 - Delete file(s) started
+20130110, 15:39:01 - Deleting file 'wall.jpg'
+20130110, 15:39:01 - Item database entry deleted, ID #8
+20130110, 15:39:01 - Writing temp image database file
+20130110, 15:39:01 - Updated image database from temporary file
+20130110, 15:39:01 - Summery: Deleted 1 database entry(s) of 1 selected
+20130110, 15:39:15 - Upload and import started
+20130110, 15:39:15 - Importing 'Penguins.jpg' (30177 Bytes)
+20130110, 15:39:15 -  * finished creating thumbnail
+20130110, 15:39:15 -  * finished importing 'Penguins.jpg'
+20130110, 15:39:15 -  * finished adding file to database
+20130110, 15:39:15 - Writing temp image database file
+20130110, 15:39:15 - Updated image database from temporary file
+20130110, 15:39:15 - Summary: Uploaded and imported 1 file(s). Gallery now contains 1 images
+20130110, 15:39:29 - Delete file(s) started
+20130110, 15:39:29 - Deleting file 'Penguins.jpg'
+20130110, 15:39:29 - Item database entry deleted, ID #9
+20130110, 15:39:29 - Writing temp image database file
+20130110, 15:39:29 - Updated image database from temporary file
+20130110, 15:39:29 - Summery: Deleted 1 database entry(s) of 1 selected
+20130110, 15:41:00 - Upload and import started
+20130110, 15:41:00 - Importing 'wallpaper_windows7-1920x1200.jpg' (115860 Bytes)
+20130110, 15:41:00 -  * finished creating thumbnail
+20130110, 15:41:00 -  * finished importing 'wallpaper_windows7-1920x1200.jpg'
+20130110, 15:41:00 -  * finished adding file to database
+20130110, 15:41:00 - Writing temp image database file
+20130110, 15:41:00 - Updated image database from temporary file
+20130110, 15:41:00 - Summary: Uploaded and imported 1 file(s). Gallery now contains 1 images
+20130110, 15:42:55 - Delete file(s) started
+20130110, 15:42:55 - Deleting file 'wallpaper_windows7-1920x1200.jpg'
+20130110, 15:42:55 - Item database entry deleted, ID #10
+20130110, 15:42:55 - Writing temp image database file
+20130110, 15:42:55 - Updated image database from temporary file
+20130110, 15:42:55 - Summery: Deleted 1 database entry(s) of 1 selected
+20130110, 15:43:27 - Upload and import started
+20130110, 15:43:27 - Importing '14311pinguins.jpg' (265208 Bytes)
+20130110, 15:43:27 -  * finished creating thumbnail
+20130110, 15:43:27 -  * finished importing '14311pinguins.jpg'
+20130110, 15:43:27 -  * finished adding file to database
+20130110, 15:43:27 - Writing temp image database file
+20130110, 15:43:27 - Updated image database from temporary file
+20130110, 15:43:27 - Summary: Uploaded and imported 1 file(s). Gallery now contains 1 images
+20130110, 15:45:41 - Delete file(s) started
+20130110, 15:45:41 - Deleting file '14311pinguins.jpg'
+20130110, 15:45:41 - Item database entry deleted, ID #11
+20130110, 15:45:41 - Writing temp image database file
+20130110, 15:45:41 - Updated image database from temporary file
+20130110, 15:45:41 - Summery: Deleted 1 database entry(s) of 1 selected
+20130110, 15:59:02 - Upload and import started
+20130110, 15:59:02 - Importing 'Penguins.jpg' (30177 Bytes)
+20130110, 15:59:02 -  * finished creating thumbnail
+20130110, 15:59:02 -  * finished importing 'Penguins.jpg'
+20130110, 15:59:02 -  * finished adding file to database
+20130110, 15:59:02 - Writing temp image database file
+20130110, 15:59:02 - Updated image database from temporary file
+20130110, 15:59:02 - Summary: Uploaded and imported 1 file(s). Gallery now contains 1 images
+20130110, 15:59:22 - Delete file(s) started
+20130110, 15:59:22 - Deleting file 'Penguins.jpg'
+20130110, 15:59:22 - Item database entry deleted, ID #12
+20130110, 15:59:22 - Writing temp image database file
+20130110, 15:59:22 - Updated image database from temporary file
+20130110, 15:59:22 - Summery: Deleted 1 database entry(s) of 1 selected
+20130110, 16:02:27 - Upload and import started
+20130110, 16:02:27 - Importing 'wallpaper_windows7-1920x1200.jpg' (115860 Bytes)
+20130110, 16:02:28 -  * finished creating thumbnail
+20130110, 16:02:28 -  * finished importing 'wallpaper_windows7-1920x1200.jpg'
+20130110, 16:02:28 -  * finished adding file to database
+20130110, 16:02:28 - Writing temp image database file
+20130110, 16:02:28 - Updated image database from temporary file
+20130110, 16:02:28 - Summary: Uploaded and imported 1 file(s). Gallery now contains 1 images
+20130110, 16:02:56 - Delete file(s) started
+20130110, 16:02:56 - Deleting file 'wallpaper_windows7-1920x1200.jpg'
+20130110, 16:02:56 - Item database entry deleted, ID #13
+20130110, 16:02:56 - Writing temp image database file
+20130110, 16:02:56 - Updated image database from temporary file
+20130110, 16:02:56 - Summery: Deleted 1 database entry(s) of 1 selected
+20130110, 16:05:30 - Upload and import started
+20130110, 16:05:30 - Importing '41412-windows-8-m3-wallpaper.jpg' (137056 Bytes)
+20130110, 16:05:30 -  * finished creating thumbnail
+20130110, 16:05:30 -  * finished importing '41412-windows-8-m3-wallpaper.jpg'
+20130110, 16:05:30 -  * finished adding file to database
+20130110, 16:05:30 - Writing temp image database file
+20130110, 16:05:30 - Updated image database from temporary file
+20130110, 16:05:30 - Summary: Uploaded and imported 1 file(s). Gallery now contains 1 images
+20130110, 16:05:45 - Delete file(s) started
+20130110, 16:05:45 - Deleting file '41412-windows-8-m3-wallpaper.jpg'
+20130110, 16:05:45 - Item database entry deleted, ID #14
+20130110, 16:05:45 - Writing temp image database file
+20130110, 16:05:45 - Updated image database from temporary file
+20130110, 16:05:45 - Summery: Deleted 1 database entry(s) of 1 selected
+20130110, 16:19:09 - Writing temp folder database file
+20130110, 16:19:09 - Updated folder database from temporary file
+20130110, 16:19:09 - Created folder 'Gerando Negócios' in 'Principal'
+20130110, 16:19:45 - Writing temp folder database file
+20130110, 16:19:45 - Updated folder database from temporary file
+20130110, 16:19:45 - Created folder 'Noticias' in 'Principal'
+20130110, 16:21:44 - Upload and import started
+20130110, 16:21:44 - Importing 'wall.jpg' (136022 Bytes)
+20130110, 16:21:44 -  * finished creating thumbnail
+20130110, 16:21:44 -  * finished importing 'wall.jpg'
+20130110, 16:21:44 -  * finished adding file to database
+20130110, 16:21:44 - Writing temp image database file
+20130110, 16:21:44 - Updated image database from temporary file
+20130110, 16:21:44 - Summary: Uploaded and imported 1 file(s). Gallery now contains 1 images
+20130110, 16:23:46 - Delete file(s) started
+20130110, 16:23:46 - Deleting file 'wall.jpg'
+20130110, 16:23:46 - Item database entry deleted, ID #15
+20130110, 16:23:46 - Writing temp image database file
+20130110, 16:23:46 - Updated image database from temporary file
+20130110, 16:23:46 - Summery: Deleted 1 database entry(s) of 1 selected
+20130110, 16:23:59 - Upload and import started
+20130110, 16:23:59 - Importing 'Penguins.jpg' (30177 Bytes)
+20130110, 16:23:59 -  * finished creating thumbnail
+20130110, 16:23:59 -  * finished importing 'Penguins.jpg'
+20130110, 16:23:59 -  * finished adding file to database
+20130110, 16:23:59 - Writing temp image database file
+20130110, 16:23:59 - Updated image database from temporary file
+20130110, 16:23:59 - Summary: Uploaded and imported 1 file(s). Gallery now contains 1 images
+20130110, 16:48:10 - Timeout logoff after 15 minutes
+20130110, 16:48:30 - Login from IP: 201.74.218.176, HOST: c94adab0.virtua.com.br
+20130110, 16:48:55 - Delete file(s) started
+20130110, 16:48:55 - Deleting file 'Penguins.jpg'
+20130110, 16:48:55 - Item database entry deleted, ID #16
+20130110, 16:48:55 - Writing temp image database file
+20130110, 16:48:55 - Updated image database from temporary file
+20130110, 16:48:55 - Summery: Deleted 1 database entry(s) of 1 selected
+20130111, 10:32:44 - Login from IP: 201.74.218.176, HOST: c94adab0.virtua.com.br
+20130111, 10:34:27 - Writing temp folder database file
+20130111, 10:34:27 - Updated folder database from temporary file
+20130111, 10:34:27 - Update of folder 'Aeronáutico' complete.
+20130111, 10:35:14 - Writing temp folder database file
+20130111, 10:35:14 - Updated folder database from temporary file
+20130111, 10:35:14 - Update of folder 'SEGMENTOS-Aeronáutico' complete.
+20130111, 10:35:39 - Writing temp folder database file
+20130111, 10:35:39 - Updated folder database from temporary file
+20130111, 10:35:39 - Update of folder 'Automotivo' complete.
+20130111, 10:36:36 - Writing temp folder database file
+20130111, 10:36:36 - Updated folder database from temporary file
+20130111, 10:36:36 - Update of folder 'Gerando Negócios' complete.
+20130111, 10:36:52 - Writing temp folder database file
+20130111, 10:36:52 - Updated folder database from temporary file
+20130111, 10:36:52 - Update of folder 'Noticias' complete.
+20130111, 10:38:34 - Writing temp folder database file
+20130111, 10:38:34 - Updated folder database from temporary file
+20130111, 10:38:34 - Update of folder 'Educacional' complete.
+20130111, 10:38:45 - Writing temp folder database file
+20130111, 10:38:45 - Updated folder database from temporary file
+20130111, 10:38:45 - Update of folder 'Eólico' complete.
+20130111, 10:38:58 - Writing temp folder database file
+20130111, 10:38:58 - Updated folder database from temporary file
+20130111, 10:38:58 - Update of folder 'Ferroviário' complete.
+20130111, 10:39:10 - Writing temp folder database file
+20130111, 10:39:10 - Updated folder database from temporary file
+20130111, 10:39:10 - Update of folder 'Fundição' complete.
+20130111, 10:39:23 - Writing temp folder database file
+20130111, 10:39:24 - Updated folder database from temporary file
+20130111, 10:39:24 - Update of folder 'Hidroelétrico' complete.
+20130111, 10:39:35 - Writing temp folder database file
+20130111, 10:39:35 - Updated folder database from temporary file
+20130111, 10:39:35 - Update of folder 'Indústrias de Maquinas' complete.
+20130111, 10:39:46 - Writing temp folder database file
+20130111, 10:39:46 - Updated folder database from temporary file
+20130111, 10:39:46 - Update of folder 'Microfusão' complete.
+20130111, 10:40:01 - Writing temp folder database file
+20130111, 10:40:01 - Updated folder database from temporary file
+20130111, 10:40:01 - Update of folder 'Moldes e Matrizes' complete.
+20130111, 10:40:12 - Writing temp folder database file
+20130111, 10:40:12 - Updated folder database from temporary file
+20130111, 10:40:12 - Update of folder 'Médico / Odontológico' complete.
+20130111, 10:40:26 - Writing temp folder database file
+20130111, 10:40:26 - Updated folder database from temporary file
+20130111, 10:40:26 - Update of folder 'Outros Setores' complete.
+20130111, 10:40:52 - Writing temp folder database file
+20130111, 10:40:53 - Updated folder database from temporary file
+20130111, 10:40:53 - Update of folder 'Usinagens em Geral' complete.
+20130114, 13:00:08 - Login from IP: 201.74.218.176, HOST: c94adab0.virtua.com.br
+20130114, 13:00:27 - Writing temp folder database file
+20130114, 13:00:27 - Updated folder database from temporary file
+20130114, 13:00:27 - Created folder 'APLICAÇÕES' in 'Principal'
+20130114, 13:01:34 - Upload and import started
+20130114, 13:01:34 - Importing '14311pinguins.jpg' (265208 Bytes)
+20130114, 13:01:34 -  * finished creating thumbnail
+20130114, 13:01:34 -  * finished importing '14311pinguins.jpg'
+20130114, 13:01:34 -  * finished adding file to database
+20130114, 13:01:34 - Importing '41412-windows-8-m3-wallpaper.jpg' (137056 Bytes)
+20130114, 13:01:34 -  * finished creating thumbnail
+20130114, 13:01:34 -  * finished importing '41412-windows-8-m3-wallpaper.jpg'
+20130114, 13:01:34 -  * finished adding file to database
+20130114, 13:01:34 - Importing 'Penguins.jpg' (30177 Bytes)
+20130114, 13:01:34 -  * finished creating thumbnail
+20130114, 13:01:34 -  * finished importing 'Penguins.jpg'
+20130114, 13:01:34 -  * finished adding file to database
+20130114, 13:01:34 - Importing 'wall.jpg' (136022 Bytes)
+20130114, 13:01:34 -  * finished creating thumbnail
+20130114, 13:01:34 -  * finished importing 'wall.jpg'
+20130114, 13:01:34 -  * finished adding file to database
+20130114, 13:01:34 - Importing 'wallpaper_windows7-1920x1200.jpg' (115860 Bytes)
+20130114, 13:01:34 -  * finished creating thumbnail
+20130114, 13:01:34 -  * finished importing 'wallpaper_windows7-1920x1200.jpg'
+20130114, 13:01:34 -  * finished adding file to database
+20130114, 13:01:34 - Writing temp image database file
+20130114, 13:01:34 - Updated image database from temporary file
+20130114, 13:01:34 - Summary: Uploaded and imported 5 file(s). Gallery now contains 5 images
+20130114, 13:02:20 - Delete file(s) started
+20130114, 13:02:20 - Deleting file '14311pinguins.jpg'
+20130114, 13:02:20 - Item database entry deleted, ID #17
+20130114, 13:02:20 - Deleting file '41412-windows-8-m3-wallpaper.jpg'
+20130114, 13:02:20 - Item database entry deleted, ID #18
+20130114, 13:02:20 - Deleting file 'Penguins.jpg'
+20130114, 13:02:20 - Item database entry deleted, ID #19
+20130114, 13:02:20 - Deleting file 'wall.jpg'
+20130114, 13:02:20 - Item database entry deleted, ID #20
+20130114, 13:02:20 - Deleting file 'wallpaper_windows7-1920x1200.jpg'
+20130114, 13:02:20 - Item database entry deleted, ID #21
+20130114, 13:02:20 - Writing temp image database file
+20130114, 13:02:20 - Updated image database from temporary file
+20130114, 13:02:20 - Summery: Deleted 5 database entry(s) of 5 selected
+20130114, 16:15:36 - Login from IP: 201.74.218.176, HOST: c94adab0.virtua.com.br
+20130114, 16:20:15 - Writing temp folder database file
+20130114, 16:20:15 - Updated folder database from temporary file
+20130114, 16:20:15 - Update of folder 'APLICAÇÕES' complete.
+20130114, 16:22:09 - Upload and import started
+20130114, 16:22:09 - Importing 'Pôr-do-sol.jpg' (71189 Bytes)
+20130114, 16:22:09 -  * finished creating thumbnail
+20130114, 16:22:09 -  * finished importing 'Pôr-do-sol.jpg'
+20130114, 16:22:09 -  * finished adding file to database
+20130114, 16:22:09 - Importing 'Inverno.jpg' (105542 Bytes)
+20130114, 16:22:09 -  * finished creating thumbnail
+20130114, 16:22:09 -  * finished importing 'Inverno.jpg'
+20130114, 16:22:09 -  * finished adding file to database
+20130114, 16:22:09 - Importing 'Montanhas azuis.jpg' (28521 Bytes)
+20130114, 16:22:09 -  * finished creating thumbnail
+20130114, 16:22:09 -  * finished importing 'Montanhas azuis.jpg'
+20130114, 16:22:09 -  * finished adding file to database
+20130114, 16:22:09 - Writing temp image database file
+20130114, 16:22:09 - Updated image database from temporary file
+20130114, 16:22:09 - Summary: Uploaded and imported 3 file(s). Gallery now contains 3 images
+20130114, 16:22:12 - Upload and import started
+20130114, 16:22:12 - 3 already exists file(s) have not been uploaded!
+20130114, 16:23:01 - Writing temp image database file
+20130114, 16:23:01 - Updated image database from temporary file
+20130114, 16:23:01 - Success of updating image record, ID #23
+20130114, 16:23:28 - Writing temp image database file
+20130114, 16:23:28 - Updated image database from temporary file
+20130114, 16:23:28 - Success of updating image record, ID #24
+20130114, 16:23:52 - Writing temp image database file
+20130114, 16:23:52 - Updated image database from temporary file
+20130114, 16:23:52 - Success of updating image record, ID #22
+20130114, 16:25:29 - Deleting file 'Inverno.jpg'
+20130114, 16:25:29 - Item database entry deleted, ID #23
+20130114, 16:25:29 - Writing temp image database file
+20130114, 16:25:29 - Updated image database from temporary file
+20130114, 16:25:49 - Deleting file 'Montanhas azuis.jpg'
+20130114, 16:25:49 - Item database entry deleted, ID #24
+20130114, 16:25:49 - Writing temp image database file
+20130114, 16:25:49 - Updated image database from temporary file
+20130114, 16:25:54 - Deleting file 'Pôr-do-sol.jpg'
+20130114, 16:25:54 - Item database entry deleted, ID #22
+20130114, 16:25:54 - Writing temp image database file
+20130114, 16:25:54 - Updated image database from temporary file
+20130114, 16:27:01 - Writing temp folder database file
+20130114, 16:27:01 - Updated folder database from temporary file
+20130114, 16:27:01 - Update of folder 'APLICAÇÕES' complete.
+20130114, 16:27:03 - Writing temp folder database file
+20130114, 16:27:03 - Updated folder database from temporary file
+20130114, 16:27:03 - Update of folder 'APLICAÇÕES' complete.
+20130114, 17:04:09 - Login from IP: 201.74.243.95, HOST: c94af35f.virtua.com.br
+20130114, 17:21:34 - Login from IP: 201.74.243.95, HOST: c94af35f.virtua.com.br
+20130114, 18:03:40 - Login from IP: 201.74.243.95, HOST: c94af35f.virtua.com.br
+20130114, 18:45:48 - Login from IP: 201.74.243.95, HOST: c94af35f.virtua.com.br
+20130114, 19:03:25 - Upload and import started
+20130114, 19:03:25 - Importing 'DSCN2942.JPG' (288624 Bytes)
+20130114, 19:03:25 -  * finished creating thumbnail
+20130114, 19:03:25 -  * finished importing 'DSCN2942.JPG'
+20130114, 19:03:25 -  * finished adding file to database
+20130114, 19:03:25 - Writing temp image database file
+20130114, 19:03:25 - Updated image database from temporary file
+20130114, 19:03:25 - Summary: Uploaded and imported 1 file(s). Gallery now contains 1 images
+20130114, 19:05:42 - Deleting file 'DSCN2942.JPG'
+20130114, 19:05:42 - Item database entry deleted, ID #25
+20130114, 19:05:42 - Writing temp image database file
+20130114, 19:05:42 - Updated image database from temporary file
+20130114, 19:14:17 - Writing temp folder database file
+20130114, 19:14:17 - Updated folder database from temporary file
+20130114, 19:14:17 - Update of folder 'APLICAÇÕES' complete.
+20130114, 21:15:22 - Login from IP: 201.74.243.95, HOST: c94af35f.virtua.com.br
+20130114, 21:17:28 - Upload and import started
+20130114, 21:17:28 - Importing '01._CAD_model.jpeg' (100413 Bytes)
+20130114, 21:17:29 -  * finished creating thumbnail
+20130114, 21:17:29 -  * finished importing '01._CAD_model.jpeg'
+20130114, 21:17:29 -  * finished adding file to database
+20130114, 21:17:29 - Writing temp image database file
+20130114, 21:17:29 - Updated image database from temporary file
+20130114, 21:17:29 - Summary: Uploaded and imported 1 file(s). Gallery now contains 1 images
+20130114, 21:17:52 - Upload and import started
+20130114, 21:17:52 - No files to import!
+20130114, 21:18:40 - Upload and import started
+20130114, 21:18:40 - Importing '02._PMMA_model - Copy.jpg' (6049 Bytes)
+20130114, 21:18:40 -  * finished creating thumbnail
+20130114, 21:18:40 -  * finished importing '02._PMMA_model - Copy.jpg'
+20130114, 21:18:40 -  * finished adding file to database
+20130114, 21:18:40 - Writing temp image database file
+20130114, 21:18:40 - Updated image database from temporary file
+20130114, 21:18:40 - Summary: Uploaded and imported 1 file(s). Gallery now contains 2 images
+20130114, 21:19:21 - Writing temp folder database file
+20130114, 21:19:21 - Updated folder database from temporary file
+20130114, 21:19:21 - Update of folder 'SEGMENTOS-Microfusão' complete.
+20130114, 21:19:53 - Upload and import started
+20130114, 21:19:53 - 1 already exists file(s) have not been uploaded!
+20130114, 21:20:40 - Upload and import started
+20130114, 21:20:40 - Importing '01._CAD_model - Copy.jpg' (81621 Bytes)
+20130114, 21:20:40 -  * finished creating thumbnail
+20130114, 21:20:40 -  * finished importing '01._CAD_model - Copy.jpg'
+20130114, 21:20:40 -  * finished adding file to database
+20130114, 21:20:40 - Writing temp image database file
+20130114, 21:20:40 - Updated image database from temporary file
+20130114, 21:20:40 - Summary: Uploaded and imported 1 file(s). Gallery now contains 3 images
+20130114, 21:27:32 - Writing temp image database file
+20130114, 21:27:32 - Updated image database from temporary file
+20130114, 21:27:32 - Success of updating image record, ID #28
+20130114, 21:39:22 - Writing temp image database file
+20130114, 21:39:22 - Updated image database from temporary file
+20130114, 21:39:22 - Success of updating image record, ID #28
+20130114, 21:40:15 - Writing temp image database file
+20130114, 21:40:15 - Updated image database from temporary file
+20130114, 21:40:15 - Success of updating image record, ID #28
+20130114, 21:40:28 - Writing temp image database file
+20130114, 21:40:28 - Updated image database from temporary file
+20130114, 21:40:28 - Success of updating image record, ID #28
+20130114, 21:45:12 - Writing temp image database file
+20130114, 21:45:12 - Updated image database from temporary file
+20130114, 21:45:12 - Success of updating image record, ID #28
+20130114, 21:45:19 - Writing temp image database file
+20130114, 21:45:19 - Updated image database from temporary file
+20130114, 21:45:19 - Success of updating image record, ID #28
+20130114, 21:50:17 - Writing temp image database file
+20130114, 21:50:17 - Updated image database from temporary file
+20130114, 21:50:17 - Success of updating image record, ID #28
+20130114, 21:50:23 - Writing temp image database file
+20130114, 21:50:23 - Updated image database from temporary file
+20130114, 21:50:23 - Success of updating image record, ID #28
+20130114, 21:52:11 - Upload and import started
+20130114, 21:52:11 - Importing '02._Sand_mould.JPG' (2178061 Bytes)
+20130114, 21:52:11 -  * finished creating thumbnail
+20130114, 21:52:11 -  * finished importing '02._Sand_mould.JPG'
+20130114, 21:52:11 -  * finished adding file to database
+20130114, 21:52:11 - Writing temp image database file
+20130114, 21:52:11 - Updated image database from temporary file
+20130114, 21:52:11 - Summary: Uploaded and imported 1 file(s). Gallery now contains 4 images
+20130114, 21:53:02 - Writing temp image database file
+20130114, 21:53:02 - Updated image database from temporary file
+20130114, 21:53:02 - Success of updating image record, ID #29
+20130114, 21:53:09 - Writing temp image database file
+20130114, 21:53:09 - Updated image database from temporary file
+20130114, 21:53:09 - Success of updating image record, ID #29
+20130114, 21:54:46 - Writing temp image database file
+20130114, 21:54:46 - Updated image database from temporary file
+20130114, 21:54:46 - Success of updating image record, ID #29
+20130114, 21:54:54 - Writing temp image database file
+20130114, 21:54:54 - Updated image database from temporary file
+20130114, 21:54:54 - Success of updating image record, ID #29
+20130114, 21:56:55 - Upload and import started
+20130114, 21:56:55 - Importing '03._With_integrated_gating_system.png' (1327267 Bytes)
+20130114, 21:56:55 -  * finished creating thumbnail
+20130114, 21:56:55 -  * finished importing '03._With_integrated_gating_system.png'
+20130114, 21:56:55 -  * finished adding file to database
+20130114, 21:56:55 - Writing temp image database file
+20130114, 21:56:55 - Updated image database from temporary file
+20130114, 21:56:55 - Summary: Uploaded and imported 1 file(s). Gallery now contains 5 images
+20130114, 21:58:50 - Upload and import started
+20130114, 21:58:50 - Importing '10._Cast_mould_with_gating_system.jpg' (29815 Bytes)
+20130114, 21:58:50 -  * finished creating thumbnail
+20130114, 21:58:50 -  * finished importing '10._Cast_mould_with_gating_system.jpg'
+20130114, 21:58:50 -  * finished adding file to database
+20130114, 21:58:50 - Writing temp image database file
+20130114, 21:58:50 - Updated image database from temporary file
+20130114, 21:58:50 - Summary: Uploaded and imported 1 file(s). Gallery now contains 6 images
+20130114, 21:58:58 - Upload and import started
+20130114, 21:58:58 - 1 already exists file(s) have not been uploaded!
+20130114, 21:59:42 - Upload and import started
+20130114, 21:59:42 - Importing '11._Finisched_cast_part.JPG' (67121 Bytes)
+20130114, 21:59:42 -  * finished creating thumbnail
+20130114, 21:59:42 -  * finished importing '11._Finisched_cast_part.JPG'
+20130114, 21:59:42 -  * finished adding file to database
+20130114, 21:59:42 - Writing temp image database file
+20130114, 21:59:42 - Updated image database from temporary file
+20130114, 21:59:42 - Summary: Uploaded and imported 1 file(s). Gallery now contains 7 images
+20130114, 21:59:54 - Upload and import started
+20130114, 21:59:54 - 1 already exists file(s) have not been uploaded!
+20130114, 22:00:32 - Upload and import started
+20130114, 22:00:32 - Importing '08._Cooling.jpg' (47074 Bytes)
+20130114, 22:00:32 -  * finished creating thumbnail
+20130114, 22:00:32 -  * finished importing '08._Cooling.jpg'
+20130114, 22:00:32 -  * finished adding file to database
+20130114, 22:00:32 - Writing temp image database file
+20130114, 22:00:32 - Updated image database from temporary file
+20130114, 22:00:32 - Summary: Uploaded and imported 1 file(s). Gallery now contains 8 images
+20130114, 22:00:38 - Upload and import started
+20130114, 22:00:38 - 1 already exists file(s) have not been uploaded!
+20130114, 22:01:51 - Upload and import started
+20130114, 22:01:51 - Importing 'Francis-wheel_free.JPG' (165238 Bytes)
+20130114, 22:01:51 -  * finished creating thumbnail
+20130114, 22:01:51 -  * finished importing 'Francis-wheel_free.JPG'
+20130114, 22:01:51 -  * finished adding file to database
+20130114, 22:01:51 - Writing temp image database file
+20130114, 22:01:51 - Updated image database from temporary file
+20130114, 22:01:51 - Summary: Uploaded and imported 1 file(s). Gallery now contains 9 images
+20130114, 22:02:04 - Upload and import started
+20130114, 22:02:04 - 1 already exists file(s) have not been uploaded!
+20130114, 22:02:23 - Upload and import started
+20130114, 22:02:23 - Importing 'Francis-wheel_steel.JPG' (32174 Bytes)
+20130114, 22:02:23 -  * finished creating thumbnail
+20130114, 22:02:23 -  * finished importing 'Francis-wheel_steel.JPG'
+20130114, 22:02:23 -  * finished adding file to database
+20130114, 22:02:23 - Writing temp image database file
+20130114, 22:02:23 - Updated image database from temporary file
+20130114, 22:02:23 - Summary: Uploaded and imported 1 file(s). Gallery now contains 10 images
+20130114, 22:02:37 - Upload and import started
+20130114, 22:02:37 - 1 already exists file(s) have not been uploaded!
+20130114, 22:03:38 - Upload and import started
+20130114, 22:03:38 - Importing 'pump_form.jpg' (409755 Bytes)
+20130114, 22:03:39 -  * finished creating thumbnail
+20130114, 22:03:39 -  * finished importing 'pump_form.jpg'
+20130114, 22:03:39 -  * finished adding file to database
+20130114, 22:03:39 - Writing temp image database file
+20130114, 22:03:39 - Updated image database from temporary file
+20130114, 22:03:39 - Summary: Uploaded and imported 1 file(s). Gallery now contains 11 images
+20130114, 22:03:47 - Upload and import started
+20130114, 22:03:47 - 1 already exists file(s) have not been uploaded!
+20130114, 22:27:52 - Timeout logoff after 15 minutes
+20130115, 04:56:22 - Login from IP: 201.74.243.95, HOST: c94af35f.virtua.com.br
+20130115, 05:11:58 - Writing temp folder database file
+20130115, 05:11:58 - Updated folder database from temporary file
+20130115, 05:11:58 - Created folder 'APLICAÇÕES' in 'APLICAÇÕES'
+20130115, 05:17:41 - Upload and import started
+20130115, 05:17:41 - No files to import!
+20130115, 05:26:45 - Upload and import started
+20130115, 05:26:45 - Importing 'engenharia-aeronautica.jpg' (34790 Bytes)
+20130115, 05:26:45 -  * finished creating thumbnail
+20130115, 05:26:45 -  * finished importing 'engenharia-aeronautica.jpg'
+20130115, 05:26:45 -  * finished adding file to database
+20130115, 05:26:45 - Writing temp image database file
+20130115, 05:26:45 - Updated image database from temporary file
+20130115, 05:26:45 - Summary: Uploaded and imported 1 file(s). Gallery now contains 12 images
+20130115, 05:27:19 - Upload and import started
+20130115, 05:27:19 - Importing 'antonov_an225_turbinas.jpg' (135606 Bytes)
+20130115, 05:27:19 -  * finished creating thumbnail
+20130115, 05:27:19 -  * finished importing 'antonov_an225_turbinas.jpg'
+20130115, 05:27:19 -  * finished adding file to database
+20130115, 05:27:19 - Writing temp image database file
+20130115, 05:27:19 - Updated image database from temporary file
+20130115, 05:27:19 - Summary: Uploaded and imported 1 file(s). Gallery now contains 13 images
+20130115, 05:27:46 - Upload and import started
+20130115, 05:27:46 - Importing '1667758.jpg' (404360 Bytes)
+20130115, 05:27:46 -  * finished creating thumbnail
+20130115, 05:27:46 -  * finished importing '1667758.jpg'
+20130115, 05:27:46 -  * finished adding file to database
+20130115, 05:27:46 - Writing temp image database file
+20130115, 05:27:46 - Updated image database from temporary file
+20130115, 05:27:46 - Summary: Uploaded and imported 1 file(s). Gallery now contains 14 images
+20130115, 05:27:53 - Upload and import started
+20130115, 05:27:53 - 1 already exists file(s) have not been uploaded!
+20130115, 05:36:21 - Upload and import started
+20130115, 05:36:21 - Importing '_font_b_aircraft_b_font_spare.jpg_120x120.jpg' (4365 Bytes)
+20130115, 05:36:21 -  * finished creating thumbnail
+20130115, 05:36:21 -  * finished importing '_font_b_aircraft_b_font_spare.jpg_120x120.jpg'
+20130115, 05:36:21 -  * finished adding file to database
+20130115, 05:36:21 - Writing temp image database file
+20130115, 05:36:21 - Updated image database from temporary file
+20130115, 05:36:21 - Summary: Uploaded and imported 1 file(s). Gallery now contains 15 images
+20130115, 05:36:53 - Upload and import started
+20130115, 05:36:53 - 1 already exists file(s) have not been uploaded!
+20130115, 05:37:03 - Upload and import started
+20130115, 05:37:03 - 1 already exists file(s) have not been uploaded!
+20130115, 05:38:02 - Upload and import started
+20130115, 05:38:02 - Importing 'airforce_ru_mig-29smt_011.jpg' (190860 Bytes)
+20130115, 05:38:03 -  * finished creating thumbnail
+20130115, 05:38:03 -  * finished importing 'airforce_ru_mig-29smt_011.jpg'
+20130115, 05:38:03 -  * finished adding file to database
+20130115, 05:38:03 - Writing temp image database file
+20130115, 05:38:03 - Updated image database from temporary file
+20130115, 05:38:03 - Summary: Uploaded and imported 1 file(s). Gallery now contains 16 images
+20130115, 05:38:10 - Upload and import started
+20130115, 05:38:10 - 1 already exists file(s) have not been uploaded!
+20130115, 05:40:52 - Upload and import started
+20130115, 05:40:52 - Importing '30_30km.jpg' (53333 Bytes)
+20130115, 05:40:52 -  * finished creating thumbnail
+20130115, 05:40:52 -  * finished importing '30_30km.jpg'
+20130115, 05:40:52 -  * finished adding file to database
+20130115, 05:40:52 - Writing temp image database file
+20130115, 05:40:52 - Updated image database from temporary file
+20130115, 05:40:52 - Summary: Uploaded and imported 1 file(s). Gallery now contains 17 images
+20130115, 05:40:59 - Upload and import started
+20130115, 05:40:59 - 1 already exists file(s) have not been uploaded!
+20130115, 05:41:24 - Upload and import started
+20130115, 05:41:24 - Importing 'aeronautica.jpg' (48021 Bytes)
+20130115, 05:41:24 -  * finished creating thumbnail
+20130115, 05:41:24 -  * finished importing 'aeronautica.jpg'
+20130115, 05:41:24 -  * finished adding file to database
+20130115, 05:41:24 - Writing temp image database file
+20130115, 05:41:24 - Updated image database from temporary file
+20130115, 05:41:24 - Summary: Uploaded and imported 1 file(s). Gallery now contains 18 images
+20130115, 05:41:31 - Upload and import started
+20130115, 05:41:31 - 1 already exists file(s) have not been uploaded!
+20130115, 05:41:52 - Upload and import started
+20130115, 05:41:52 - 1 already exists file(s) have not been uploaded!
+20130115, 05:42:19 - Upload and import started
+20130115, 05:42:19 - Importing 'escareadores (1).jpg' (28787 Bytes)
+20130115, 05:42:19 -  * finished creating thumbnail
+20130115, 05:42:19 -  * finished importing 'escareadores (1).jpg'
+20130115, 05:42:19 -  * finished adding file to database
+20130115, 05:42:19 - Writing temp image database file
+20130115, 05:42:19 - Updated image database from temporary file
+20130115, 05:42:19 - Summary: Uploaded and imported 1 file(s). Gallery now contains 19 images
+20130115, 05:42:24 - Upload and import started
+20130115, 05:42:24 - 1 already exists file(s) have not been uploaded!
+20130115, 05:43:55 - Deleting file 'antonov_an225_turbinas.jpg'
+20130115, 05:43:55 - Item database entry deleted, ID #38
+20130115, 05:43:55 - Writing temp image database file
+20130115, 05:43:55 - Updated image database from temporary file
+20130115, 05:44:25 - Upload and import started
+20130115, 05:44:25 - 1 already exists file(s) have not been uploaded!
+20130115, 05:45:13 - Upload and import started
+20130115, 05:45:13 - Importing 'KP 6500-AR_2.jpg' (68174 Bytes)
+20130115, 05:45:13 -  * finished creating thumbnail
+20130115, 05:45:13 -  * finished importing 'KP 6500-AR_2.jpg'
+20130115, 05:45:13 -  * finished adding file to database
+20130115, 05:45:13 - Writing temp image database file
+20130115, 05:45:13 - Updated image database from temporary file
+20130115, 05:45:13 - Summary: Uploaded and imported 1 file(s). Gallery now contains 19 images
+20130115, 05:45:17 - Upload and import started
+20130115, 05:45:17 - 1 already exists file(s) have not been uploaded!
+20130115, 05:46:33 - Upload and import started
+20130115, 05:46:33 - Importing 'MECANIZADO MOLDE ALA-logo.jpg' (57696 Bytes)
+20130115, 05:46:33 -  * finished creating thumbnail
+20130115, 05:46:33 -  * finished importing 'MECANIZADO MOLDE ALA-logo.jpg'
+20130115, 05:46:33 -  * finished adding file to database
+20130115, 05:46:33 - Writing temp image database file
+20130115, 05:46:33 - Updated image database from temporary file
+20130115, 05:46:33 - Summary: Uploaded and imported 1 file(s). Gallery now contains 20 images
+20130115, 05:46:41 - Upload and import started
+20130115, 05:46:41 - 1 already exists file(s) have not been uploaded!
+20130115, 05:47:00 - Upload and import started
+20130115, 05:47:00 - Importing 'fabricacao-de-componentes-da-perfiladeira-B.jpg' (52275 Bytes)
+20130115, 05:47:00 -  * finished creating thumbnail
+20130115, 05:47:00 -  * finished importing 'fabricacao-de-componentes-da-perfiladeira-B.jpg'
+20130115, 05:47:00 -  * finished adding file to database
+20130115, 05:47:00 - Writing temp image database file
+20130115, 05:47:00 - Updated image database from temporary file
+20130115, 05:47:00 - Summary: Uploaded and imported 1 file(s). Gallery now contains 21 images
+20130115, 05:47:05 - Upload and import started
+20130115, 05:47:05 - 1 already exists file(s) have not been uploaded!
+20130115, 05:47:27 - Upload and import started
+20130115, 05:47:27 - Importing 'pc657589-cnc_machining_billet_aluminum_scooter_fork_bicycle_forks_anodized_skate_scooter_parts.jpg' (7174 Bytes)
+20130115, 05:47:27 -  * finished creating thumbnail
+20130115, 05:47:27 -  * finished importing 'pc657589-cnc_machining_billet_aluminum_scooter_fork_bicycle_forks_anodized_skate_scooter_parts.jpg'
+20130115, 05:47:27 -  * finished adding file to database
+20130115, 05:47:27 - Writing temp image database file
+20130115, 05:47:27 - Updated image database from temporary file
+20130115, 05:47:27 - Summary: Uploaded and imported 1 file(s). Gallery now contains 22 images
+20130115, 05:47:32 - Upload and import started
+20130115, 05:47:32 - 1 already exists file(s) have not been uploaded!
+20130115, 05:52:13 - Upload and import started
+20130115, 05:52:13 - Importing '30KC-AR_30KCU-AR_gr (1).jpg' (24130 Bytes)
+20130115, 05:52:13 -  * finished creating thumbnail
+20130115, 05:52:13 -  * finished importing '30KC-AR_30KCU-AR_gr (1).jpg'
+20130115, 05:52:13 -  * finished adding file to database
+20130115, 05:52:13 - Writing temp image database file
+20130115, 05:52:13 - Updated image database from temporary file
+20130115, 05:52:13 - Summary: Uploaded and imported 1 file(s). Gallery now contains 23 images
+20130115, 05:52:43 - Upload and import started
+20130115, 05:52:43 - Importing '30KCU-AR-PIEZA EOLICO-WEC_3 (1).jpg' (50126 Bytes)
+20130115, 05:52:43 -  * finished creating thumbnail
+20130115, 05:52:43 -  * finished importing '30KCU-AR-PIEZA EOLICO-WEC_3 (1).jpg'
+20130115, 05:52:43 -  * finished adding file to database
+20130115, 05:52:43 - Writing temp image database file
+20130115, 05:52:43 - Updated image database from temporary file
+20130115, 05:52:43 - Summary: Uploaded and imported 1 file(s). Gallery now contains 24 images
+20130115, 05:52:51 - Upload and import started
+20130115, 05:52:51 - 1 already exists file(s) have not been uploaded!
+20130115, 05:53:05 - Upload and import started
+20130115, 05:53:05 - Importing '30kcu-mercier (1).jpg' (39412 Bytes)
+20130115, 05:53:05 -  * finished creating thumbnail
+20130115, 05:53:05 -  * finished importing '30kcu-mercier (1).jpg'
+20130115, 05:53:05 -  * finished adding file to database
+20130115, 05:53:05 - Writing temp image database file
+20130115, 05:53:05 - Updated image database from temporary file
+20130115, 05:53:05 - Summary: Uploaded and imported 1 file(s). Gallery now contains 25 images
+20130115, 05:53:15 - Upload and import started
+20130115, 05:53:15 - 1 already exists file(s) have not been uploaded!
+20130115, 05:54:09 - Upload and import started
+20130115, 05:54:09 - Importing '30kcu-mercier-2.jpg' (40576 Bytes)
+20130115, 05:54:09 -  * finished creating thumbnail
+20130115, 05:54:09 -  * finished importing '30kcu-mercier-2.jpg'
+20130115, 05:54:09 -  * finished adding file to database
+20130115, 05:54:09 - Writing temp image database file
+20130115, 05:54:09 - Updated image database from temporary file
+20130115, 05:54:09 - Summary: Uploaded and imported 1 file(s). Gallery now contains 26 images
+20130115, 05:54:13 - Upload and import started
+20130115, 05:54:13 - 1 already exists file(s) have not been uploaded!
+20130115, 05:54:35 - Upload and import started
+20130115, 05:54:35 - 1 already exists file(s) have not been uploaded!
+20130115, 05:54:42 - Upload and import started
+20130115, 05:54:42 - 1 already exists file(s) have not been uploaded!
+20130115, 05:56:20 - Upload and import started
+20130115, 05:56:20 - 1 already exists file(s) have not been uploaded!
+20130115, 05:57:14 - Deleting file '30KCU-AR-PIEZA EOLICO-WEC_3 (1).jpg'
+20130115, 05:57:14 - Item database entry deleted, ID #50
+20130115, 05:57:14 - Writing temp image database file
+20130115, 05:57:14 - Updated image database from temporary file
+20130115, 05:57:28 - Deleting file '30kcu-mercier (1).jpg'
+20130115, 05:57:28 - Item database entry deleted, ID #51
+20130115, 05:57:28 - Writing temp image database file
+20130115, 05:57:28 - Updated image database from temporary file
+20130115, 05:57:51 - Upload and import started
+20130115, 05:57:51 - Importing '30kcu-mercier (1).jpg' (39412 Bytes)
+20130115, 05:57:51 -  * finished creating thumbnail
+20130115, 05:57:51 -  * finished importing '30kcu-mercier (1).jpg'
+20130115, 05:57:51 -  * finished adding file to database
+20130115, 05:57:51 - Writing temp image database file
+20130115, 05:57:51 - Updated image database from temporary file
+20130115, 05:57:51 - Summary: Uploaded and imported 1 file(s). Gallery now contains 25 images
+20130115, 05:57:57 - Upload and import started
+20130115, 05:57:57 - 1 already exists file(s) have not been uploaded!
+20130115, 05:58:27 - Upload and import started
+20130115, 05:58:27 - Importing '30KCU-AR-PIEZA EOLICO-WEC_3.jpg' (50126 Bytes)
+20130115, 05:58:27 -  * finished creating thumbnail
+20130115, 05:58:27 -  * finished importing '30KCU-AR-PIEZA EOLICO-WEC_3.jpg'
+20130115, 05:58:27 -  * finished adding file to database
+20130115, 05:58:27 - Writing temp image database file
+20130115, 05:58:27 - Updated image database from temporary file
+20130115, 05:58:27 - Summary: Uploaded and imported 1 file(s). Gallery now contains 26 images
+20130115, 05:58:35 - Upload and import started
+20130115, 05:58:35 - 1 already exists file(s) have not been uploaded!
+20130115, 05:59:20 - Upload and import started
+20130115, 05:59:20 - Importing 'buje.jpg' (41694 Bytes)
+20130115, 05:59:20 -  * finished creating thumbnail
+20130115, 05:59:20 -  * finished importing 'buje.jpg'
+20130115, 05:59:20 -  * finished adding file to database
+20130115, 05:59:20 - Writing temp image database file
+20130115, 05:59:20 - Updated image database from temporary file
+20130115, 05:59:20 - Summary: Uploaded and imported 1 file(s). Gallery now contains 27 images
+20130115, 05:59:25 - Upload and import started
+20130115, 05:59:25 - 1 already exists file(s) have not been uploaded!
+20130115, 05:59:49 - Upload and import started
+20130115, 05:59:49 - Importing 'CAJA MOTOR-TEBAS.jpg' (57806 Bytes)
+20130115, 05:59:49 -  * finished creating thumbnail
+20130115, 05:59:49 -  * finished importing 'CAJA MOTOR-TEBAS.jpg'
+20130115, 05:59:49 -  * finished adding file to database
+20130115, 05:59:49 - Writing temp image database file
+20130115, 05:59:49 - Updated image database from temporary file
+20130115, 05:59:49 - Summary: Uploaded and imported 1 file(s). Gallery now contains 28 images
+20130115, 06:00:20 - Upload and import started
+20130115, 06:00:20 - Importing 'DSC00608.JPG' (28622 Bytes)
+20130115, 06:00:20 -  * finished creating thumbnail
+20130115, 06:00:20 -  * finished importing 'DSC00608.JPG'
+20130115, 06:00:20 -  * finished adding file to database
+20130115, 06:00:20 - Writing temp image database file
+20130115, 06:00:20 - Updated image database from temporary file
+20130115, 06:00:20 - Summary: Uploaded and imported 1 file(s). Gallery now contains 29 images
+20130115, 06:00:27 - Upload and import started
+20130115, 06:00:27 - 1 already exists file(s) have not been uploaded!
+20130115, 06:00:51 - Upload and import started
+20130115, 06:00:51 - Importing 'tebas_gr.jpg' (19410 Bytes)
+20130115, 06:00:51 -  * finished creating thumbnail
+20130115, 06:00:51 -  * finished importing 'tebas_gr.jpg'
+20130115, 06:00:51 -  * finished adding file to database
+20130115, 06:00:51 - Writing temp image database file
+20130115, 06:00:51 - Updated image database from temporary file
+20130115, 06:00:51 - Summary: Uploaded and imported 1 file(s). Gallery now contains 30 images
+20130115, 06:00:55 - Upload and import started
+20130115, 06:00:55 - 1 already exists file(s) have not been uploaded!
+20130115, 06:08:34 - Upload and import started
+20130115, 06:08:34 - Importing 'ferroviario (1).png' (126556 Bytes)
+20130115, 06:08:34 -  * finished creating thumbnail
+20130115, 06:08:34 -  * finished importing 'ferroviario (1).png'
+20130115, 06:08:34 -  * finished adding file to database
+20130115, 06:08:34 - Writing temp image database file
+20130115, 06:08:34 - Updated image database from temporary file
+20130115, 06:08:34 - Summary: Uploaded and imported 1 file(s). Gallery now contains 31 images
+20130115, 06:08:39 - Upload and import started
+20130115, 06:08:39 - 1 already exists file(s) have not been uploaded!
+20130115, 06:09:04 - Upload and import started
+20130115, 06:09:04 - Importing 'FMCU-AR_gr.jpg' (27890 Bytes)
+20130115, 06:09:04 -  * finished creating thumbnail
+20130115, 06:09:04 -  * finished importing 'FMCU-AR_gr.jpg'
+20130115, 06:09:04 -  * finished adding file to database
+20130115, 06:09:04 - Writing temp image database file
+20130115, 06:09:04 - Updated image database from temporary file
+20130115, 06:09:04 - Summary: Uploaded and imported 1 file(s). Gallery now contains 32 images
+20130115, 06:09:10 - Upload and import started
+20130115, 06:09:10 - 1 already exists file(s) have not been uploaded!
+20130115, 06:09:34 - Upload and import started
+20130115, 06:09:34 - Importing 'gpcu_3000ar.jpg' (27766 Bytes)
+20130115, 06:09:34 -  * finished creating thumbnail
+20130115, 06:09:34 -  * finished importing 'gpcu_3000ar.jpg'
+20130115, 06:09:34 -  * finished adding file to database
+20130115, 06:09:34 - Writing temp image database file
+20130115, 06:09:34 - Updated image database from temporary file
+20130115, 06:09:34 - Summary: Uploaded and imported 1 file(s). Gallery now contains 33 images
+20130115, 06:09:40 - Upload and import started
+20130115, 06:09:40 - 1 already exists file(s) have not been uploaded!
+20130115, 06:10:02 - Upload and import started
+20130115, 06:10:02 - Importing 'GPCU-AR-2C mecanizado agujas y contraagujas_1 (1).jpg' (63523 Bytes)
+20130115, 06:10:02 -  * finished creating thumbnail
+20130115, 06:10:02 -  * finished importing 'GPCU-AR-2C mecanizado agujas y contraagujas_1 (1).jpg'
+20130115, 06:10:02 -  * finished adding file to database
+20130115, 06:10:02 - Writing temp image database file
+20130115, 06:10:02 - Updated image database from temporary file
+20130115, 06:10:02 - Summary: Uploaded and imported 1 file(s). Gallery now contains 34 images
+20130115, 06:10:06 - Upload and import started
+20130115, 06:10:06 - 1 already exists file(s) have not been uploaded!
+20130115, 06:10:28 - Upload and import started
+20130115, 06:10:28 - Importing 'GPCU-AR-2C mecanizado agujas y contraagujas_2 (1).jpg' (67627 Bytes)
+20130115, 06:10:28 -  * finished creating thumbnail
+20130115, 06:10:28 -  * finished importing 'GPCU-AR-2C mecanizado agujas y contraagujas_2 (1).jpg'
+20130115, 06:10:28 -  * finished adding file to database
+20130115, 06:10:28 - Writing temp image database file
+20130115, 06:10:28 - Updated image database from temporary file
+20130115, 06:10:28 - Summary: Uploaded and imported 1 file(s). Gallery now contains 35 images
+20130115, 06:10:37 - Upload and import started
+20130115, 06:10:37 - 1 already exists file(s) have not been uploaded!
+20130115, 06:10:59 - Upload and import started
+20130115, 06:10:59 - Importing 'GPCU-AR-2C mecanizado agujas y contraagujas_4.jpg' (52409 Bytes)
+20130115, 06:10:59 -  * finished creating thumbnail
+20130115, 06:10:59 -  * finished importing 'GPCU-AR-2C mecanizado agujas y contraagujas_4.jpg'
+20130115, 06:10:59 -  * finished adding file to database
+20130115, 06:10:59 - Writing temp image database file
+20130115, 06:10:59 - Updated image database from temporary file
+20130115, 06:10:59 - Summary: Uploaded and imported 1 file(s). Gallery now contains 36 images
+20130115, 06:11:07 - Upload and import started
+20130115, 06:11:07 - 1 already exists file(s) have not been uploaded!
+20130115, 06:11:12 - Upload and import started
+20130115, 06:11:12 - 1 already exists file(s) have not been uploaded!
+20130115, 06:11:53 - Upload and import started
+20130115, 06:11:53 - Importing 'FPCU AR-2C-mecanizado cruzamientos vias.jpg' (53078 Bytes)
+20130115, 06:11:53 -  * finished creating thumbnail
+20130115, 06:11:53 -  * finished importing 'FPCU AR-2C-mecanizado cruzamientos vias.jpg'
+20130115, 06:11:53 -  * finished adding file to database
+20130115, 06:11:53 - Writing temp image database file
+20130115, 06:11:53 - Updated image database from temporary file
+20130115, 06:11:53 - Summary: Uploaded and imported 1 file(s). Gallery now contains 37 images
+20130115, 06:11:59 - Upload and import started
+20130115, 06:11:59 - 1 already exists file(s) have not been uploaded!
+20130115, 06:14:18 - Upload and import started
+20130115, 06:14:18 - Importing 'CAF- GPCU 14.000AR - Bogie locomotora pendular 0.Jpg' (39487 Bytes)
+20130115, 06:14:18 -  * finished creating thumbnail
+20130115, 06:14:18 -  * finished importing 'CAF- GPCU 14.000AR - Bogie locomotora pendular 0.Jpg'
+20130115, 06:14:18 -  * finished adding file to database
+20130115, 06:14:18 - Writing temp image database file
+20130115, 06:14:18 - Updated image database from temporary file
+20130115, 06:14:18 - Summary: Uploaded and imported 1 file(s). Gallery now contains 38 images
+20130115, 06:14:25 - Upload and import started
+20130115, 06:14:25 - 1 already exists file(s) have not been uploaded!
+20130115, 06:14:47 - Upload and import started
+20130115, 06:14:47 - Importing 'CAF-GPCU 14000-AR-BOGIE_1 (1).jpg' (38306 Bytes)
+20130115, 06:14:47 -  * finished creating thumbnail
+20130115, 06:14:47 -  * finished importing 'CAF-GPCU 14000-AR-BOGIE_1 (1).jpg'
+20130115, 06:14:47 -  * finished adding file to database
+20130115, 06:14:47 - Writing temp image database file
+20130115, 06:14:47 - Updated image database from temporary file
+20130115, 06:14:47 - Summary: Uploaded and imported 1 file(s). Gallery now contains 39 images
+20130115, 06:14:52 - Upload and import started
+20130115, 06:14:52 - 1 already exists file(s) have not been uploaded!
+20130115, 06:18:54 - Upload and import started
+20130115, 06:18:54 - Importing 'IMG_7255.jpg' (60193 Bytes)
+20130115, 06:18:54 -  * finished creating thumbnail
+20130115, 06:18:54 -  * finished importing 'IMG_7255.jpg'
+20130115, 06:18:54 -  * finished adding file to database
+20130115, 06:18:54 - Writing temp image database file
+20130115, 06:18:54 - Updated image database from temporary file
+20130115, 06:18:54 - Summary: Uploaded and imported 1 file(s). Gallery now contains 40 images
+20130115, 06:19:02 - Upload and import started
+20130115, 06:19:02 - 1 already exists file(s) have not been uploaded!
+20130115, 06:19:20 - Upload and import started
+20130115, 06:19:20 - Importing '30KCU_20.000-I.M.P.(ITALIA) (1).jpg' (61287 Bytes)
+20130115, 06:19:20 -  * finished creating thumbnail
+20130115, 06:19:20 -  * finished importing '30KCU_20.000-I.M.P.(ITALIA) (1).jpg'
+20130115, 06:19:20 -  * finished adding file to database
+20130115, 06:19:20 - Writing temp image database file
+20130115, 06:19:20 - Updated image database from temporary file
+20130115, 06:19:20 - Summary: Uploaded and imported 1 file(s). Gallery now contains 41 images
+20130115, 06:19:26 - Upload and import started
+20130115, 06:19:26 - 1 already exists file(s) have not been uploaded!
+20130115, 06:19:45 - Upload and import started
+20130115, 06:19:45 - Importing '30KCU_12000_AR.jpg' (52083 Bytes)
+20130115, 06:19:45 -  * finished creating thumbnail
+20130115, 06:19:45 -  * finished importing '30KCU_12000_AR.jpg'
+20130115, 06:19:45 -  * finished adding file to database
+20130115, 06:19:45 - Writing temp image database file
+20130115, 06:19:45 - Updated image database from temporary file
+20130115, 06:19:45 - Summary: Uploaded and imported 1 file(s). Gallery now contains 42 images
+20130115, 06:19:51 - Upload and import started
+20130115, 06:19:51 - 1 already exists file(s) have not been uploaded!
+20130115, 06:22:59 - Upload and import started
+20130115, 06:22:59 - Importing 'hidroelectricas.png' (128744 Bytes)
+20130115, 06:22:59 -  * finished creating thumbnail
+20130115, 06:22:59 -  * finished importing 'hidroelectricas.png'
+20130115, 06:22:59 -  * finished adding file to database
+20130115, 06:22:59 - Writing temp image database file
+20130115, 06:22:59 - Updated image database from temporary file
+20130115, 06:22:59 - Summary: Uploaded and imported 1 file(s). Gallery now contains 43 images
+20130115, 06:23:05 - Upload and import started
+20130115, 06:23:05 - 1 already exists file(s) have not been uploaded!
+20130115, 06:23:40 - Upload and import started
+20130115, 06:23:40 - Importing 'IMG_7946.JPG' (32420 Bytes)
+20130115, 06:23:40 -  * finished creating thumbnail
+20130115, 06:23:40 -  * finished importing 'IMG_7946.JPG'
+20130115, 06:23:40 -  * finished adding file to database
+20130115, 06:23:40 - Writing temp image database file
+20130115, 06:23:40 - Updated image database from temporary file
+20130115, 06:23:40 - Summary: Uploaded and imported 1 file(s). Gallery now contains 44 images
+20130115, 06:23:47 - Upload and import started
+20130115, 06:23:47 - 1 already exists file(s) have not been uploaded!
+20130115, 06:25:35 - Upload and import started
+20130115, 06:25:35 - 1 already exists file(s) have not been uploaded!
+20130115, 06:25:42 - Upload and import started
+20130115, 06:25:42 - 1 already exists file(s) have not been uploaded!
+20130115, 06:32:15 - Upload and import started
+20130115, 06:32:15 - 1 already exists file(s) have not been uploaded!
+20130115, 06:33:13 - Upload and import started
+20130115, 06:33:13 - 1 already exists file(s) have not been uploaded!
+20130115, 06:33:18 - Upload and import started
+20130115, 06:33:18 - 1 already exists file(s) have not been uploaded!
+20130115, 06:34:17 - Upload and import started
+20130115, 06:34:17 - Importing 'grandes-mecanizados.png' (113104 Bytes)
+20130115, 06:34:17 -  * finished creating thumbnail
+20130115, 06:34:17 -  * finished importing 'grandes-mecanizados.png'
+20130115, 06:34:17 -  * finished adding file to database
+20130115, 06:34:17 - Writing temp image database file
+20130115, 06:34:17 - Updated image database from temporary file
+20130115, 06:34:17 - Summary: Uploaded and imported 1 file(s). Gallery now contains 45 images
+20130115, 06:34:24 - Upload and import started
+20130115, 06:34:24 - 1 already exists file(s) have not been uploaded!
+20130115, 06:35:03 - Upload and import started
+20130115, 06:35:03 - Importing 'GMCU_14000_AR.jpg' (53307 Bytes)
+20130115, 06:35:03 -  * finished creating thumbnail
+20130115, 06:35:03 -  * finished importing 'GMCU_14000_AR.jpg'
+20130115, 06:35:03 -  * finished adding file to database
+20130115, 06:35:03 - Writing temp image database file
+20130115, 06:35:03 - Updated image database from temporary file
+20130115, 06:35:03 - Summary: Uploaded and imported 1 file(s). Gallery now contains 46 images
+20130115, 06:35:09 - Upload and import started
+20130115, 06:35:09 - 1 already exists file(s) have not been uploaded!
+20130115, 06:35:43 - Upload and import started
+20130115, 06:35:43 - Importing 'TURBINA KAPLAN web.jpg' (9917 Bytes)
+20130115, 06:35:43 -  * finished creating thumbnail
+20130115, 06:35:43 -  * finished importing 'TURBINA KAPLAN web.jpg'
+20130115, 06:35:43 -  * finished adding file to database
+20130115, 06:35:43 - Writing temp image database file
+20130115, 06:35:43 - Updated image database from temporary file
+20130115, 06:35:43 - Summary: Uploaded and imported 1 file(s). Gallery now contains 47 images
+20130115, 06:35:48 - Upload and import started
+20130115, 06:35:48 - 1 already exists file(s) have not been uploaded!
+20130115, 06:45:36 - Upload and import started
+20130115, 06:45:36 - Importing '18-09-2009 005.jpg' (55618 Bytes)
+20130115, 06:45:36 -  * finished creating thumbnail
+20130115, 06:45:36 -  * finished importing '18-09-2009 005.jpg'
+20130115, 06:45:36 -  * finished adding file to database
+20130115, 06:45:36 - Writing temp image database file
+20130115, 06:45:36 - Updated image database from temporary file
+20130115, 06:45:36 - Summary: Uploaded and imported 1 file(s). Gallery now contains 48 images
+20130115, 06:45:41 - Upload and import started
+20130115, 06:45:41 - 1 already exists file(s) have not been uploaded!
+20130115, 06:46:09 - Upload and import started
+20130115, 06:46:09 - Importing '30KC_5000-intercambiadores_de-calor.jpg' (44058 Bytes)
+20130115, 06:46:09 -  * finished creating thumbnail
+20130115, 06:46:09 -  * finished importing '30KC_5000-intercambiadores_de-calor.jpg'
+20130115, 06:46:09 -  * finished adding file to database
+20130115, 06:46:09 - Writing temp image database file
+20130115, 06:46:09 - Updated image database from temporary file
+20130115, 06:46:09 - Summary: Uploaded and imported 1 file(s). Gallery now contains 49 images
+20130115, 06:46:12 - Upload and import started
+20130115, 06:46:12 - 1 already exists file(s) have not been uploaded!
+20130115, 06:46:40 - Upload and import started
+20130115, 06:46:40 - Importing '30KFU_4000-DAMFER (1).jpg' (52762 Bytes)
+20130115, 06:46:40 -  * finished creating thumbnail
+20130115, 06:46:40 -  * finished importing '30KFU_4000-DAMFER (1).jpg'
+20130115, 06:46:40 -  * finished adding file to database
+20130115, 06:46:40 - Writing temp image database file
+20130115, 06:46:40 - Updated image database from temporary file
+20130115, 06:46:40 - Summary: Uploaded and imported 1 file(s). Gallery now contains 50 images
+20130115, 06:46:43 - Upload and import started
+20130115, 06:46:43 - 1 already exists file(s) have not been uploaded!
+20130115, 06:47:12 - Upload and import started
+20130115, 06:47:12 - Importing '30KMU_8000-valvuleria-GARA.jpg' (41760 Bytes)
+20130115, 06:47:12 -  * finished creating thumbnail
+20130115, 06:47:12 -  * finished importing '30KMU_8000-valvuleria-GARA.jpg'
+20130115, 06:47:12 -  * finished adding file to database
+20130115, 06:47:12 - Writing temp image database file
+20130115, 06:47:12 - Updated image database from temporary file
+20130115, 06:47:12 - Summary: Uploaded and imported 1 file(s). Gallery now contains 51 images
+20130115, 06:47:18 - Upload and import started
+20130115, 06:47:18 - 1 already exists file(s) have not been uploaded!
+20130115, 06:47:51 - Upload and import started
+20130115, 06:47:51 - Importing 'MEMPHIS_4000-U-molde_automoion-CRONOSTAMP_(ITALIA).jpg' (48359 Bytes)
+20130115, 06:47:51 -  * finished creating thumbnail
+20130115, 06:47:51 -  * finished importing 'MEMPHIS_4000-U-molde_automoion-CRONOSTAMP_(ITALIA).jpg'
+20130115, 06:47:51 -  * finished adding file to database
+20130115, 06:47:51 - Writing temp image database file
+20130115, 06:47:51 - Updated image database from temporary file
+20130115, 06:47:51 - Summary: Uploaded and imported 1 file(s). Gallery now contains 52 images
+20130115, 06:47:56 - Upload and import started
+20130115, 06:47:56 - 1 already exists file(s) have not been uploaded!
+20130115, 06:49:12 - Upload and import started
+20130115, 06:49:12 - Importing 'KPCU_5000-AR-MULTILIFT_OY_(Finland).jpg' (54965 Bytes)
+20130115, 06:49:12 -  * finished creating thumbnail
+20130115, 06:49:12 -  * finished importing 'KPCU_5000-AR-MULTILIFT_OY_(Finland).jpg'
+20130115, 06:49:12 -  * finished adding file to database
+20130115, 06:49:12 - Writing temp image database file
+20130115, 06:49:12 - Updated image database from temporary file
+20130115, 06:49:12 - Summary: Uploaded and imported 1 file(s). Gallery now contains 53 images
+20130115, 06:49:17 - Upload and import started
+20130115, 06:49:17 - 1 already exists file(s) have not been uploaded!
+20130115, 06:51:53 - Upload and import started
+20130115, 06:51:53 - 1 already exists file(s) have not been uploaded!
+20130115, 06:51:57 - Upload and import started
+20130115, 06:51:57 - 1 already exists file(s) have not been uploaded!
+20130115, 06:52:56 - Upload and import started
+20130115, 06:52:56 - Importing '02._PMMA_model.jpg' (6049 Bytes)
+20130115, 06:52:56 -  * finished creating thumbnail
+20130115, 06:52:56 -  * finished importing '02._PMMA_model.jpg'
+20130115, 06:52:56 -  * finished adding file to database
+20130115, 06:52:56 - Writing temp image database file
+20130115, 06:52:56 - Updated image database from temporary file
+20130115, 06:52:56 - Summary: Uploaded and imported 1 file(s). Gallery now contains 54 images
+20130115, 06:53:03 - Upload and import started
+20130115, 06:53:03 - 1 already exists file(s) have not been uploaded!
+20130115, 06:53:52 - Upload and import started
+20130115, 06:53:52 - Importing '03._Preparation_with_wax_rods.jpg' (34530 Bytes)
+20130115, 06:53:52 -  * finished creating thumbnail
+20130115, 06:53:52 -  * finished importing '03._Preparation_with_wax_rods.jpg'
+20130115, 06:53:52 -  * finished adding file to database
+20130115, 06:53:52 - Writing temp image database file
+20130115, 06:53:52 - Updated image database from temporary file
+20130115, 06:53:52 - Summary: Uploaded and imported 1 file(s). Gallery now contains 55 images
+20130115, 06:53:57 - Upload and import started
+20130115, 06:53:57 - 1 already exists file(s) have not been uploaded!
+20130115, 06:54:21 - Upload and import started
+20130115, 06:54:21 - Importing '04._First_ceramic_layer.jpg' (44296 Bytes)
+20130115, 06:54:21 -  * finished creating thumbnail
+20130115, 06:54:21 -  * finished importing '04._First_ceramic_layer.jpg'
+20130115, 06:54:21 -  * finished adding file to database
+20130115, 06:54:21 - Writing temp image database file
+20130115, 06:54:21 - Updated image database from temporary file
+20130115, 06:54:21 - Summary: Uploaded and imported 1 file(s). Gallery now contains 56 images
+20130115, 06:54:27 - Upload and import started
+20130115, 06:54:27 - 1 already exists file(s) have not been uploaded!
+20130115, 06:54:49 - Upload and import started
+20130115, 06:54:49 - Importing '05._Shell_building_using_sand.jpg' (65578 Bytes)
+20130115, 06:54:50 -  * finished creating thumbnail
+20130115, 06:54:50 -  * finished importing '05._Shell_building_using_sand.jpg'
+20130115, 06:54:50 -  * finished adding file to database
+20130115, 06:54:50 - Writing temp image database file
+20130115, 06:54:50 - Updated image database from temporary file
+20130115, 06:54:50 - Summary: Uploaded and imported 1 file(s). Gallery now contains 57 images
+20130115, 06:54:53 - Upload and import started
+20130115, 06:54:53 - 1 already exists file(s) have not been uploaded!
+20130115, 06:55:26 - Upload and import started
+20130115, 06:55:26 - Importing '09._Finished_casting_shell.jpg' (63396 Bytes)
+20130115, 06:55:26 -  * finished creating thumbnail
+20130115, 06:55:26 -  * finished importing '09._Finished_casting_shell.jpg'
+20130115, 06:55:26 -  * finished adding file to database
+20130115, 06:55:26 - Writing temp image database file
+20130115, 06:55:26 - Updated image database from temporary file
+20130115, 06:55:26 - Summary: Uploaded and imported 1 file(s). Gallery now contains 58 images
+20130115, 06:55:31 - Upload and import started
+20130115, 06:55:31 - 1 already exists file(s) have not been uploaded!
+20130115, 06:55:48 - Upload and import started
+20130115, 06:55:48 - Importing '12._After_casting_process.jpg' (61023 Bytes)
+20130115, 06:55:48 -  * finished creating thumbnail
+20130115, 06:55:48 -  * finished importing '12._After_casting_process.jpg'
+20130115, 06:55:48 -  * finished adding file to database
+20130115, 06:55:48 - Writing temp image database file
+20130115, 06:55:48 - Updated image database from temporary file
+20130115, 06:55:48 - Summary: Uploaded and imported 1 file(s). Gallery now contains 59 images
+20130115, 06:55:53 - Upload and import started
+20130115, 06:55:53 - 1 already exists file(s) have not been uploaded!
+20130115, 06:56:25 - Upload and import started
+20130115, 06:56:25 - Importing 'exhaust_manifold_with_turbo_charger(1).jpg' (928323 Bytes)
+20130115, 06:56:26 -  * finished creating thumbnail
+20130115, 06:56:26 -  * finished importing 'exhaust_manifold_with_turbo_charger(1).jpg'
+20130115, 06:56:26 -  * finished adding file to database
+20130115, 06:56:26 - Writing temp image database file
+20130115, 06:56:26 - Updated image database from temporary file
+20130115, 06:56:26 - Summary: Uploaded and imported 1 file(s). Gallery now contains 60 images
+20130115, 06:56:45 - Upload and import started
+20130115, 06:56:45 - Importing 'picture-32.jpg' (119148 Bytes)
+20130115, 06:56:45 -  * finished creating thumbnail
+20130115, 06:56:45 -  * finished importing 'picture-32.jpg'
+20130115, 06:56:45 -  * finished adding file to database
+20130115, 06:56:45 - Writing temp image database file
+20130115, 06:56:45 - Updated image database from temporary file
+20130115, 06:56:45 - Summary: Uploaded and imported 1 file(s). Gallery now contains 61 images
+20130115, 06:56:50 - Upload and import started
+20130115, 06:56:50 - 1 already exists file(s) have not been uploaded!
+20130115, 06:57:57 - Upload and import started
+20130115, 06:57:57 - Importing 'picture-5.jpg' (199545 Bytes)
+20130115, 06:57:57 -  * finished creating thumbnail
+20130115, 06:57:57 -  * finished importing 'picture-5.jpg'
+20130115, 06:57:57 -  * finished adding file to database
+20130115, 06:57:57 - Writing temp image database file
+20130115, 06:57:57 - Updated image database from temporary file
+20130115, 06:57:57 - Summary: Uploaded and imported 1 file(s). Gallery now contains 62 images
+20130115, 06:58:02 - Upload and import started
+20130115, 06:58:02 - 1 already exists file(s) have not been uploaded!
+20130115, 18:04:31 - Login from IP: 201.74.243.95, HOST: c94af35f.virtua.com.br
+20130115, 18:05:23 - Deleting file '02._PMMA_model - Copy.jpg'
+20130115, 18:05:23 - Item database entry deleted, ID #27
+20130115, 18:05:23 - Writing temp image database file
+20130115, 18:05:23 - Updated image database from temporary file
+20130115, 18:05:38 - Deleting file '_font_b_aircraft_b_font_spare.jpg_120x120.jpg'
+20130115, 18:05:38 - Item database entry deleted, ID #40
+20130115, 18:05:38 - Writing temp image database file
+20130115, 18:05:38 - Updated image database from temporary file
+20130115, 18:06:06 - Writing temp folder database file
+20130115, 18:06:06 - Updated folder database from temporary file
+20130115, 18:06:06 - Update of folder 'APLICAÇÕES' complete.
+20130115, 18:06:28 - Writing temp folder database file
+20130115, 18:06:28 - Updated folder database from temporary file
+20130115, 18:06:28 - Update of folder 'APLICAÇÕES' complete.
+20130115, 22:27:59 - Login from IP: 201.74.243.95, HOST: c94af35f.virtua.com.br
+20130115, 22:29:11 - Deleting file '1667758.jpg'
+20130115, 22:29:11 - Item database entry deleted, ID #39
+20130115, 22:29:11 - Writing temp image database file
+20130115, 22:29:11 - Updated image database from temporary file
+20130115, 22:29:22 - Deleting file 'airforce_ru_mig-29smt_011.jpg'
+20130115, 22:29:22 - Item database entry deleted, ID #41
+20130115, 22:29:22 - Writing temp image database file
+20130115, 22:29:22 - Updated image database from temporary file
+20130116, 10:07:26 - Login from IP: 201.74.243.95, HOST: c94af35f.virtua.com.br
+20130116, 14:22:33 - Login from IP: 201.74.218.176, HOST: c94adab0.virtua.com.br
+20130116, 14:45:34 - Timeout logoff after 15 minutes
+20130116, 14:46:01 - Login from IP: 201.74.218.176, HOST: c94adab0.virtua.com.br
+20130116, 14:49:36 - Login from IP: 201.23.177.169, HOST: 201-23-177-169.gprs.claro.net.br
+20130116, 16:18:27 - Login from IP: 201.82.247.54, HOST: c952f736.virtua.com.br
+20130118, 10:03:28 - Login from IP: 201.74.218.176, HOST: c94adab0.virtua.com.br
+20130119, 12:45:37 - Login from IP: 201.74.243.95, HOST: c94af35f.virtua.com.br
+20130119, 13:33:54 - Timeout logoff after 15 minutes
+20130119, 13:39:02 - Login from IP: 201.74.243.95, HOST: c94af35f.virtua.com.br
+20130119, 14:07:10 - Login from IP: 201.74.243.95, HOST: c94af35f.virtua.com.br
+20130119, 14:24:39 - Timeout logoff after 15 minutes
+20130119, 14:25:07 - Login from IP: 201.74.243.95, HOST: c94af35f.virtua.com.br
+20130119, 14:27:47 - Writing temp folder database file
+20130119, 14:27:47 - Updated folder database from temporary file
+20130119, 14:27:47 - Update of folder 'APLICAÇÕES' complete.
+20130119, 14:27:56 - Writing temp folder database file
+20130119, 14:27:56 - Updated folder database from temporary file
+20130119, 14:27:56 - Update of folder 'APLICAÇÕES' complete.
+20130119, 14:32:51 - Writing temp folder database file
+20130119, 14:32:51 - Updated folder database from temporary file
+20130119, 14:32:51 - Update of folder 'APLICAÇÕES' complete.
+20130119, 14:34:25 - Writing temp folder database file
+20130119, 14:34:25 - Updated folder database from temporary file
+20130119, 14:34:25 - Update of folder 'APLICAÇÕES' complete.
+20130119, 14:34:57 - Writing temp folder database file
+20130119, 14:34:57 - Updated folder database from temporary file
+20130119, 14:34:57 - Update of folder 'APLICAÇÕES' complete.
+20130119, 14:35:04 - Writing temp folder database file
+20130119, 14:35:04 - Updated folder database from temporary file
+20130119, 14:35:04 - Update of folder 'APLICAÇÕES' complete.
+20130119, 14:39:57 - Writing temp folder database file
+20130119, 14:39:57 - Updated folder database from temporary file
+20130119, 14:39:57 - Update of folder 'APLICAÇÕES' complete.
+20130119, 14:40:49 - Writing temp folder database file
+20130119, 14:40:49 - Updated folder database from temporary file
+20130119, 14:40:49 - Update of folder 'APLICAÇÕES' complete.
+20130125, 03:12:05 - Login from IP: 201.74.243.95, HOST: c94af35f.virtua.com.br
+20130125, 03:13:09 - Upload and import started
+20130125, 03:13:09 - Importing 'image.jpg' (155141 Bytes)
+20130125, 03:13:10 -  * finished creating thumbnail
+20130125, 03:13:10 -  * finished importing 'image.jpg'
+20130125, 03:13:10 -  * finished adding file to database
+20130125, 03:13:10 - Writing temp image database file
+20130125, 03:13:10 - Updated image database from temporary file
+20130125, 03:13:10 - Summary: Uploaded and imported 1 file(s). Gallery now contains 59 images
+20130125, 03:14:20 - Upload and import started
+20130125, 03:14:20 - Importing 'image_autorenamed4165.jpg' (145867 Bytes)
+20130125, 03:14:20 -  * finished creating thumbnail
+20130125, 03:14:20 -  * finished importing 'image_autorenamed4165.jpg'
+20130125, 03:14:20 -  * finished adding file to database
+20130125, 03:14:20 - Writing temp image database file
+20130125, 03:14:20 - Updated image database from temporary file
+20130125, 03:14:20 - Summary: Uploaded and imported 1 file(s). Gallery now contains 60 images
+20130125, 03:14:20 - Therefrom 1 file(s) renamed automatically!
+20130125, 03:18:19 - Writing temp folder database file
+20130125, 03:18:19 - Updated folder database from temporary file
+20130125, 03:18:19 - Created folder 'autonamed#1_5722' in 'Principal'
+20130125, 03:18:23 - Writing temp folder database file
+20130125, 03:18:23 - Updated folder database from temporary file
+20130125, 03:18:23 - Created folder 'autonamed#1_6479' in 'Principal'
+20130125, 03:21:33 - Upload and import started
+20130125, 03:21:33 - Importing 'image_autorenamed7877.jpg' (138361 Bytes)
+20130125, 03:21:33 -  * finished creating thumbnail
+20130125, 03:21:33 -  * finished importing 'image_autorenamed7877.jpg'
+20130125, 03:21:33 -  * finished adding file to database
+20130125, 03:21:33 - Writing temp image database file
+20130125, 03:21:33 - Updated image database from temporary file
+20130125, 03:21:33 - Summary: Uploaded and imported 1 file(s). Gallery now contains 61 images
+20130125, 03:21:33 - Therefrom 1 file(s) renamed automatically!
+20130125, 03:23:44 - Upload and import started
+20130125, 03:23:44 - Importing 'image_autorenamed1046.jpg' (227939 Bytes)
+20130125, 03:23:44 -  * finished creating thumbnail
+20130125, 03:23:44 -  * finished importing 'image_autorenamed1046.jpg'
+20130125, 03:23:44 -  * finished adding file to database
+20130125, 03:23:44 - Writing temp image database file
+20130125, 03:23:44 - Updated image database from temporary file
+20130125, 03:23:44 - Summary: Uploaded and imported 1 file(s). Gallery now contains 62 images
+20130125, 03:23:44 - Therefrom 1 file(s) renamed automatically!
+20130125, 03:52:22 - Timeout logoff after 15 minutes
+20130125, 03:52:40 - Login from IP: 201.74.243.95, HOST: c94af35f.virtua.com.br
+20130125, 03:53:27 - Writing temp folder database file
+20130125, 03:53:27 - Updated folder database from temporary file
+20130125, 03:53:27 - Update of folder 'SEGMENTOS-Médico / Odontológico' complete.
+20130127, 16:47:02 - Login from IP: 201.74.243.95, HOST: c94af35f.virtua.com.br
+20130201, 10:14:09 - Login from IP: 186.196.106.122, HOST: 186.196.106.122
+20130201, 10:20:57 - Writing temp image database file
+20130201, 10:20:57 - Updated image database from temporary file
+20130201, 10:20:57 - Success of updating image record, ID #42
+20130201, 10:21:05 - Couldn't rotate image #43 to 
+20130201, 10:21:16 - Couldn't rotate image #43 to 
+20130201, 10:52:02 - Timeout logoff after 15 minutes
+20130201, 10:53:14 - Login from IP: 186.196.106.122, HOST: 186.196.106.122
+20130201, 10:56:03 - Upload and import started
+20130201, 10:56:03 - No files to import!
+20130201, 11:06:29 - Upload and import started
+20130201, 11:06:29 - No files to import!
+20130201, 11:29:14 - Writing temp folder database file
+20130201, 11:29:14 - Updated folder database from temporary file
+20130201, 11:29:14 - Update of folder 'SEGMENTOS-Aeronáutico' complete.
